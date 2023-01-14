@@ -1,0 +1,24 @@
+body {
+  background-image: url('../img/homebg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+
+.centered {
+  position: absolute;
+  top: 60%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+}
+
+
+.Register {
+
+  color: black;
+font-weight: bold;
+font-size: large;
+}
+
+
+
